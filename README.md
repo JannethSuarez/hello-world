@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-learning github
+This is Janneth Suarez learning github.
